@@ -1,4 +1,4 @@
-# DistDeadlockDetectionandResolution
+# Disttributed Deadlock Detection and Resolution based on hardware clock
 This is an implementation of Jean Mayo and Phil kearn's paper on distributed deadlock detection and resolution. This detection algorithm is token based and works on single resource model.
 
 # How to run
